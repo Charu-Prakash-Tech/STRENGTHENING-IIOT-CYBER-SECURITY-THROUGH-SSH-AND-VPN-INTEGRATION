@@ -94,24 +94,6 @@ Refer to `Architecture_Diagram.png` for a visual representation.
 - Python 3.8+ installed on the local machine.
 - OpenVPN setup on a server instance.
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/iiot-cybersecurity.git
-   ```
-2. Configure AWS services:
-   - Set up VPC, subnets, and security groups.
-   - Launch EC2 instances and configure SSH.
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the email automation script:
-   ```bash
-   python email_alert.py
-   ```
-5. Test VPN and SSH connections to ensure secure access.
-
 ---
 
 ## Results and Analysis
