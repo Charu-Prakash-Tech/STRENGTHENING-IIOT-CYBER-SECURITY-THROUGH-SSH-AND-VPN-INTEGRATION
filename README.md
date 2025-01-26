@@ -16,17 +16,6 @@ This project focuses on enhancing the cybersecurity of Industrial Internet of Th
 
 ---
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [System Architecture](#system-architecture)
-3. [Implementation Modules](#implementation-modules)
-4. [Security Measures](#security-measures)
-5. [Setup and Installation](#setup-and-installation)
-6. [Results and Analysis](#results-and-analysis)
-7. [Future Scope](#future-scope)
-8. [References](#references)
-
----
 
 ## Introduction
 
