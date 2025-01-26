@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on enhancing the cybersecurity of Industrial Internet of Things (IIoT) systems by integrating Secure Shell (SSH) and Virtual Private Network (VPN) technologies within an AWS environment. It aims to address critical security challenges like unauthorized access, data breaches, and evolving cyber threats, ensuring the secure, scalable, and resilient operation of IIoT infrastructure.
 
-**Note**: This project is funded by the Tamil Nadu State Government, emphasizing its importance in securing critical infrastructure and fostering technological advancements. The project was led by [Your Name], who served as the Team Lead, coordinating efforts across development, implementation, and testing phases.
+**Note**: This project is funded by the Tamil Nadu State Government, emphasizing its importance in securing critical infrastructure and fostering technological advancements. The project was led by M.K. Charu Prakash, who served as the Team Lead, coordinating efforts across development, implementation, and testing phases.
 
 ## Key Features
 - **Robust Data Encryption**: Secure data transmission using SSH and VPN to prevent eavesdropping and man-in-the-middle (MITM) attacks.
@@ -15,7 +15,6 @@ This project focuses on enhancing the cybersecurity of Industrial Internet of Th
 - **Disaster Recovery**: Dual-database architecture with backup and recovery mechanisms.
 
 ---
-
 
 ## Introduction
 
@@ -87,15 +86,6 @@ Refer to `Architecture_Diagram.png` for a visual representation.
 
 ---
 
-## Setup and Installation
-
-### Prerequisites
-- AWS account with EC2, VPC, and IAM permissions.
-- Python 3.8+ installed on the local machine.
-- OpenVPN setup on a server instance.
-
----
-
 ## Results and Analysis
 
 - **Data Security**: All traffic between IIoT devices and servers is encrypted, ensuring data confidentiality.
@@ -123,3 +113,7 @@ Refer to `Architecture_Diagram.png` for a visual representation.
 3. "Enhancing IIoT Security with Secure Shell (SSH)" by R. Gupta et al. (2022)
 
 For a complete list, refer to the `References` section in the project report.
+
+---
+
+![Certificate](Certificate.png)
